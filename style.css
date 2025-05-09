@@ -1,0 +1,30 @@
+
+h1{
+	color: #00ff00;
+	margin: 40px;
+	margin-top: 30px;
+	height: 50px;
+	border-bottom-style: solid;
+	border-bottom-color: #909090;
+	border-bottom-width: 1px;
+}
+
+body{
+	background-color: #000000;
+}
+
+p{
+	font-family: Courier,monospace;
+	margin-left: 40px;
+	margin-right: 40px;
+	color: #ffffff;
+
+}
+
+.all{
+	margin: 30px;
+	background-color: #808080;
+
+	border-style: Solid;
+	height: 600px;
+}
